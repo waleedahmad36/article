@@ -1,0 +1,24 @@
+# Dependency directories
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Backend built files
+/build
+
+# Backend runtime data
+/data
+
+# Any sensitive or secret files
+config.json
